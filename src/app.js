@@ -195,7 +195,7 @@ class App {
         // hint of extension tobermory.es6-string-html
         const propertyPage = $( /*html*/ `
         <div id="main">
-            <div class="head" style="font-size: 1.6rem">
+            <div class="head" style="font-size: 1.6rem;heiht:400px;">
                 <div>调整初始属性</div>
                 <div id="total" style="font-size:1rem; font-weight:normal;">可用属性点：0</div>
             </div>
